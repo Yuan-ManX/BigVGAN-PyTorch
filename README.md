@@ -1,7 +1,7 @@
 # BigVGAN PyTorch
 
 <p align="center">
-  <img src="BigVGAN.png" alt="BigVGAN" style="display:block; margin:auto; width:380px;" />
+  <img src="BigVGAN.png" alt="BigVGAN" style="display:block; margin:auto; width:680px;" />
 </p>
 
 PyTorch implementation of BigVGAN.
