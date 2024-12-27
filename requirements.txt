@@ -1,0 +1,12 @@
+numpy
+torch
+librosa>=0.8.1
+soundfile
+scipy
+tensorboard
+matplotlib
+pesq
+auraloss
+tqdm
+nnAudio
+ninja
